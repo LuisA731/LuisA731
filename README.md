@@ -1,16 +1,15 @@
-## Hi there 👋
+![banner](./assets/banner.png)
 
-<!--
-**LuisA731/LuisA731** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align=center> ¿Te sientes a salvo en internet? </h1>
+<h3>Si tu respuesta es no, ¡prepárate para sumergirte en el emocionante y misterioso mundo de la ciberseguridad! Solo los curiosos de verdad, esos que no pueden resistirse a descubrir cómo funcionan las cosas, somos los valientes exploradores de este fascinante universo lleno de retos y sorpresas 🚀🔐.  </h3>
 
-Here are some ideas to get you started:
+## ¿Quién soy?
+<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/nn4FAqmnGul76gcdIg/giphy.gif">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 📡 Entusiasta de Ciberseguridad.
+- 🎮 Actualmente cursando la carrera de Ingeniería en Ciberseguridad.
+- 🥼 Especialmente interesado en la Forensia Digital.
+- 🥇 Mi meta es generar un impacto positivo y contribuir al crecimiento de esta comunidad.
+
+
